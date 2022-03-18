@@ -1,0 +1,86 @@
+[
+    {
+        "sku": "S7F6F7",
+        "category": "Health",
+        "createdAt": "2020-02-01",
+        "name": "Face Mask",
+        "stock":30,
+        "price": 1.99,
+        "ratings": [
+            { "user": 1, "rating": 3 },
+            { "user": 2, "rating": 4 }
+        ]
+    },
+    {
+        "sku": "S7F6F8",
+        "category": "Health",
+        "createdAt": "2020-02-02",
+        "name": "band-aids",
+        "stock":5,
+        "price": 3.99,
+        "ratings": [
+            { "user": 3, "rating": 4 }
+        ]
+    },
+    {
+        "sku": "S6T6F2",
+        "category": "Health",
+        "createdAt": "2020-02-12",
+        "name": "dumbbells",
+        "stock":2,
+        "price": 30.50,
+        "ratings": [
+            { "user": 1, "rating": 5 },
+            { "user": 2, "rating": 5 },
+            { "user": 3, "rating": 5 }
+        ]
+    },
+    {
+        "sku": "S5T6F1",
+        "category": "Health",
+        "createdAt": "2020-02-12",
+        "name": "Sneakers",
+        "stock":2,
+        "price": 74.50,
+        "ratings": [
+            { "user": 3, "rating": 3 },
+            { "user": 2, "rating": 4 }
+        ]
+    },
+    {
+        "sku": "K5T6F1",
+        "category": "Kids",
+        "createdAt": "2020-02-12",
+        "name": "t-shirt",
+        "stock":40,
+        "price": 4.75,
+        "ratings": [
+            { "user": 3, "rating": 3 },
+            { "user": 2, "rating": 4 }
+        ]
+    },
+    {
+        "sku": "K7F6F7",
+        "category": "Kids",
+        "createdAt": "2020-02-01",
+        "name": "Soft toy",
+        "stock":10,
+        "price": 11.99
+    },
+    {
+        "sku": "K7F6F8",
+        "category": "Kids",
+        "createdAt": "2020-02-02",
+        "name": "jacket",
+        "stock":5,
+        "price": 33.99
+    },
+    {
+        "sku": "K6T6F2",
+        "category": "Kids",
+        "createdAt": "2020-02-12",
+        "name": "Cards game",
+        "stock":1,
+        "price": 6.50
+    }
+    ]
